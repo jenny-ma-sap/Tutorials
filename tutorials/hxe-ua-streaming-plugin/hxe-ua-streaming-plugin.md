@@ -121,7 +121,7 @@ Here we will connect our streaming design time tools to the SAP HANA streaming a
 
 2. Enter the following connection details:
     - Host Name: `hxehost` (The hostname or IP address for your SAP HANA, express edition installation)
-    - Port: 39016 (virtual machine) or 3`<instance-number>`16 (binary installation)
+    - Port: 39026 (virtual machine) or 3`<instance-number>`26 (binary installation)
 
     Enable SSL, then click **OK**:
 
